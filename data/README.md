@@ -1,4 +1,4 @@
-<h1>Machine Learning Project<\h1>
+<h1>Machine Learning Project</h1>
 Overview
 This repository contains code for a machine learning project. The goal is to build, train, and evaluate a predictive model using a dataset provided by the user.
 
