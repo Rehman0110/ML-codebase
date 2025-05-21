@@ -2,8 +2,8 @@
 Overview
 This repository contains code for a machine learning project. The goal is to build, train, and evaluate a predictive model using a dataset provided by the user.
 
-Features
-Data loading and preprocessing
+<h1>Features</h1>
+<pre>Data loading and preprocessing
 
 Model training and evaluation
 
@@ -12,6 +12,7 @@ Performance metrics and reporting
 Visualization using Matplotlib and Seaborn
 
 Text processing with NLTK
+</pre>
 
 Requirements
 Python 3.x
