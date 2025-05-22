@@ -12,13 +12,15 @@ This repository contains a machine learning project built using Python and a var
 </pre>
 ## 📁 Project Structure
 
+<pre>
+
 ml-project/
 ├── data/ # Dataset files (CSV, TXT, etc.)
 ├── notebooks/ # Jupyter notebooks for experiments
 ├── src/ # Source code (preprocessing, models, etc.)
 ├── main.py # Main script to run the project
 └── README.md # Project documentation
-
+</pre>
 <pre>
 ## 🚀 Getting Started
 
